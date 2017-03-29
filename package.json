@@ -1,0 +1,25 @@
+{
+  "name": "StringUtils",
+  "version": "0.0.1",
+  "description": "A cordova plugin for string utils",
+  "cordova": {
+    "id": "com.stringutilcordovaplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irudayambics/myfindings.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "irudayambics@gmail.com",
+  "license": "Open Source",
+  "bugs": {
+    "url": "https://github.com/irudayambics/myfindings/issues"
+  },
+  "homepage": "https://github.com/irudayambics/myfindings#readme"
+}
